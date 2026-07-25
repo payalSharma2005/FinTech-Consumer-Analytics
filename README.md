@@ -1,31 +1,28 @@
-# 📊 FinTech Adoption & Cybersecurity Awareness Analysis
+# Impact of FinTech on Traditional Financial Systems
 
 ## Overview
-This project analyzes a simulated FinTech survey dataset to explore user demographics, digital payment adoption, and cybersecurity concerns using Python.
+This project analyzes a simulated survey dataset to study the impact of FinTech on traditional financial systems. Using Python, the data was cleaned, analyzed, and visualized to identify trends in FinTech adoption, user perceptions, and cybersecurity awareness.
 
 ## Tech Stack
 - Python
+- Google Colab
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
 
 ## Key Analysis
 - Age group distribution
 - FinTech adoption trends
-- Digital payment usage
-- Security concerns across age groups
+- Cybersecurity concerns
+- User perceptions
 - Data visualization and insights
 
 ## Skills Demonstrated
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Business Insight Generation
-
-## Project Outcome
-Identified key trends in FinTech usage and cybersecurity awareness through exploratory analysis and visual storytelling.
+- Insight Generation
 
 ---
 **Author:** Payal Sharma
