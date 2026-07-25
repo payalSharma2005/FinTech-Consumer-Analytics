@@ -2,6 +2,9 @@
 
 ## Overview
 This project analyzes a simulated survey dataset to study the impact of FinTech on traditional financial systems. Using Python, the data was cleaned, analyzed, and visualized to identify trends in FinTech adoption, user perceptions, and cybersecurity awareness.
+![Age Distribution Group](fig1_age_distribution.png)
+![Security Concerns Heatmap](fig16_security_concerns.png)
+
 
 ## Tech Stack
 - Python
